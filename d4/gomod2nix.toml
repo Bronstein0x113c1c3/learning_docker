@@ -1,0 +1,33 @@
+schema = 3
+
+[mod]
+  [mod."github.com/dhowden/tag"]
+    version = "v0.0.0-20240417053706-3d75831295e8"
+    hash = "sha256-eYCGgoH4z5kf+UjItqlcQrqnq4RkxdL9E+PmmVBCLQ4="
+  [mod."github.com/ebitengine/oto/v3"]
+    version = "v3.1.0"
+    hash = "sha256-hKkF4CP/oxyG52zzgJUjR5WTlIqD9oLfbdyKezuMqsk="
+  [mod."github.com/ebitengine/purego"]
+    version = "v0.7.1"
+    hash = "sha256-Q9lrOy6hCDetZ98ILSNwV0cack/lRWBlhUlB8UjPTlY="
+  [mod."github.com/gopxl/beep"]
+    version = "v1.4.1"
+    hash = "sha256-ohcv3VoucOOhw+CTxF35A5IClVPVYCe6kGPzRZVJU1s="
+  [mod."github.com/hajimehoshi/go-mp3"]
+    version = "v0.3.4"
+    hash = "sha256-h6l0PuIS0h1zdB8MEqHTTgg8dE6nL6PSOt583ymaPnA="
+  [mod."github.com/icza/bitio"]
+    version = "v1.1.0"
+    hash = "sha256-CtV/dr1L46cZ65EnK9DrBduZCaMnTGf4N2MnElCymtM="
+  [mod."github.com/mewkiz/flac"]
+    version = "v1.0.8"
+    hash = "sha256-CdgX5s+WyTs7qZKJZMrp5c5VVoalBxYTlmmKiSqIoR0="
+  [mod."github.com/mewkiz/pkg"]
+    version = "v0.0.0-20230226050401-4010bf0fec14"
+    hash = "sha256-vpPhgYcMQIaDd50OdQZvDitV73oBNGJhCNYVt1FKIX4="
+  [mod."github.com/pkg/errors"]
+    version = "v0.9.1"
+    hash = "sha256-mNfQtcrQmu3sNg/7IwiieKWOgFQOVVe2yXgKBpe/wZw="
+  [mod."golang.org/x/sys"]
+    version = "v0.12.0"
+    hash = "sha256-Ht/PhBJGWNBg4ksmdUu4+7hJjFypSwoUN/8DJricd+0="

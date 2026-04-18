@@ -30,9 +30,9 @@ func newStreamer(buffer_chan chan [][2]float64, signal chan struct{}) beep.Strea
 }
 func main() {
 	a := sound.NewAudioInstance("./test/")
-	sr := beep.SampleRate(44100)
+	sr := beep.SampleRate(48000)
 	speaker.Init(sr, sr.N(time.Second*5))
-	audio_stream, err := a.AudioDataStream("04 - In My Blood.flac")
+	audio_stream, err := a.AudioDataStream("09 Get Your Wish (SMILE! _D Live Ver.flac")
 	if err != nil {
 		log.Fatal(err)
 		log.Fatal("Failed")
