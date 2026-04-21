@@ -32,3 +32,5 @@ go.work.sum
 */test
 # .idea/
 # .vscode/
+*/target/
+*/target
